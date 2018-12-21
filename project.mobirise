@@ -1036,7 +1036,7 @@
                 "image": "@PROJECT_PATH@/assets/images/refraccion2-peque-copia-2000x3008.jpg",
                 "active": true,
                 "showButtons": false,
-                "showText": false,
+                "showText": true,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1046,7 +1046,7 @@
                 "title": "DIAPOSITIVA DE IMAGEN",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Elija entre la gran selección de bloques prediseñados más recientes: jumbotrons,  hero images, desplazamiento con paralaje, fondos con videos, menú de hamburguesa, encabezado fijo y más.",
+                "text": "Cana d'Amsterdam",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
                 "overlayOpacity": "0.1"
               }
